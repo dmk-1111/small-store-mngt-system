@@ -20,3 +20,4 @@
 
 OpenAdmin\Admin\Form::forget(['editor']);
 Admin::css('/css/styles.css');
+Admin::css('/css/custom-field.css');
